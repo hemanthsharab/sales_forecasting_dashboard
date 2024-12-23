@@ -1,0 +1,8 @@
+# Python dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+statsmodels
